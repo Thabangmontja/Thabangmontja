@@ -7,13 +7,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thabangmontja" alt="thabangmontja" /></a> </p>
 
-- 🔭 I’m currently working on **Growing my Career. As I Develop projects and finish school.**
+🔭 I’m currently working as a Junior Developer at Suntech Consulting, building and maintaining enterprise backend systems using C#/.NET, REST APIs, Azure, SQL, and Microsoft Dynamics 365.
+🌱 I’m currently developing my expertise in backend engineering, cloud-native development, API integration, and Microsoft Azure.
 
-- 🌱 I’m current learning on **nodejs and spring**
+💬 Ask me about React, C#, .NET, ASP.NET Core, REST APIs, Azure, SQL, Dynamics 365, Dataverse, and backend development.
 
-- 💬 Ask me about **Java, C#**
+🛠️ I build enterprise applications, REST APIs, integrations, automation solutions, and cloud-hosted services.
 
-- 📫 How to reach me **thabangmontja20@gmail.com**
+☁️ Experienced with Nodejs, Microsoft Azure, Azure DevOps, Azure SQL, CI/CD pipelines, Git, and Azure App Services.
+
+📫 How to reach me: thabangmontja20@gmail.com
+🏆 Microsoft Certified: Power Platform Solution Architect Expert (PL-600)
+🏆 Microsoft Certified: Power Platform Developer Associate (PL-400)
+🏆 Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)
+🏆 Microsoft Certified: Identity and Access Administrator
+🏆 ALX Africa: Back-End Web Development
+🏆 Udemy: 100 Days of Code: The Complete Python Pro Bootcamp
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
