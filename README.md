@@ -17,12 +17,18 @@
 ☁️ Experienced with Nodejs, Microsoft Azure, Azure DevOps, Azure SQL, CI/CD pipelines, Git, and Azure App Services.
 
 📫 How to reach me: thabangmontja20@gmail.com
-🏆 Microsoft Certified: Power Platform Solution Architect Expert (PL-600)
-🏆 Microsoft Certified: Power Platform Developer Associate (PL-400)
-🏆 Microsoft Certified: Power Platform Functional Consultant Associate (PL-200)
-🏆 Microsoft Certified: Identity and Access Administrator
-🏆 ALX Africa: Back-End Web Development
-🏆 Udemy: 100 Days of Code: The Complete Python Pro Bootcamp
+
+🏆 Microsoft Certified: Power Platform Solution Architect Expert (PL-600).
+
+🏆 Microsoft Certified: Power Platform Developer Associate (PL-400).
+
+🏆 Microsoft Certified: Power Platform Functional Consultant Associate (PL-200).
+
+🏆 Microsoft Certified: Identity and Access Administrato.
+
+🏆 ALX Africa: Back-End Web Development.
+
+🏆 Udemy: 100 Days of Code: The Complete Python Pro Bootcamp.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
